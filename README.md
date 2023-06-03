@@ -1,6 +1,6 @@
 # Covid-19-NHSN-Analysis
 COVID-19 National Healthcare Safety Network (NHSN) Data Analysis
-![](nhs_safety)
+![](nhs_safety.jpg)
 
 ## INTRODUCTION 
 The CDC’s National Healthcare Safety Network is the United States most widely used healthcare-associated infection (HAI) tracking system. NHSN provides facilities, health departments, tracking system, states, regions, and the nation with data needed to identify problem areas, measure progress of prevention efforts, and ultimately eliminate healthcare-associated infections.
