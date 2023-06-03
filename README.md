@@ -100,7 +100,7 @@ The solutions to these questions can be found [here](https://github.com/TobyDavi
 ## DATA VISUALIZATION
 The dashboard contains 1 page of report. It was created to provide insights and answer the questions posed during the analysis phase. 
 You can interact with the dashboard [here](https://app.powerbi.com/groups/me/reports/05f48389-54f2-44ce-8eaf-2cfae370c163/ReportSection?experience=power-bi). 
-![](covid_viz.jpg)
+
 
 ## INSIGHTS
 1. Between May, 2020 and May 2023, there were 1,632,695 recorded covid cases by the NHSN for nuring home residents. 
