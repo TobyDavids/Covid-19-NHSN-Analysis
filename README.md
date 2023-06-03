@@ -122,5 +122,9 @@ You can interact with the dashboard [here](https://app.powerbi.com/groups/me/rep
 5. THE NHSN should focus and prepare for residents and other patients cases when periods are approaching winter, most especially from December to Februrary, with January as a red alert month. 
 6. The NHSN should treat these states (South Dakota , Minnesota, North Dakota, New Jersey and Indiana ) with high importance as they recorded the highest mortality rates. By providing more education, monitoring & Evaluation excercises to residents and patients from these states, potential case spread can be reduced and prevented. 
 7. Facilities like  Miller's Merry Manor, Brighton Rehabilitation and wellness centre, and cedarbrook senior care & rehabilitation centre needs to be really monitored and evaluated for faster solutions in preventing increase in average weekly cases. 
-8. Overall, the best health practices and prevention methods, through education, innovation and Data wrangling and analysis are highy important and need to be maintained and made a priority for health care workers, nurses, doctors, patients and the general public. 
+8. Overall, the best health practices and prevention methods, through education, innovation, Data wrangling and analysis are highly important and need to be maintained and made a priority for health care workers, nurses, doctors, patients and the general public. 
 9. Only consistent education at every level can help curb cases and other potential transmitable diseases. 
+
+## REFERENCES
+1. https://www.cdc.gov/nhsn/index.html
+2. https://data.cms.gov/ 
