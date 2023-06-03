@@ -103,5 +103,24 @@ You can interact with the dashboard [here](https://app.powerbi.com/groups/me/rep
 ![](covid_viz.jpg)
 
 ## INSIGHTS
-1. Between 1970 and 2014, there were 112,000 successful attacks, 283,000 confirmed deaths and 356,000 injured victims.
-2. 
+1. Between May, 2020 and May 2023, there were 1,632,695 recorded covid cases by the NHSN for nuring home residents. 
+2. The total number of available facilities to handle these cases amounted to 16,000
+3. From the 1.6m covid cases, a total of 166,244 deaths were recorded accounting for a 10% of the total cases. Recovered cases amounted to 1,466,451 accounting for 90% of cases
+4. Miller's Merry Manor, Brighton Rehabilitation and wellness centre, and cedarbrook senior care and rehabilitation centre recorded the top 3 average weekly cases amongnst all facilities, with 6.9, 5.4, and 5.1 average weekly cases respectively. 
+5. The high average weekly cases recorded by Brighton Rehabilitation and wellness centre, and cedarbrook senior care and rehabilitation centre both are from the state of pensylvania, which is one of the most populous states in the United states. Population density in this state is clearly a factor in the high average weekly cases recorded in these facilities. Miller's Merry Manor on the other hand is a facility in Indiana which is the 17th mots populous state. Other factors like the demography of resients must have contributed to the high average weekly cases. 
+6. Texas, California, and Newyork recorded the highest cases across all states overtime. This is expected as they are one of the most densely populated states in the US. Dense population within these states is a major factor that contributed to high recorded covid-19 cases. Newyork, and California are also home to major international airports and are popular destinations for both domestic and international travelers.
+7. The 5 states that recorded the highest mortality rates were South Dakota with 14%, Minnesota, North Dakota, New Jersey and Indiana with similar rates of 13%.
+8. Overtime, there has been inconsistent levels of cases between mid 2020 and May 2023. There were a few outliers, most prominent being Jan 2022 with a sharp increase. In the first & 2nd week in 2022, more than 49,000 covid cases of nursing home residents were recorded, the highest weekly caseload since the start of the pandemic. Cases increased by over 700% from December 2021. 
+9. There is a strong positive correlation between Total Cases and Total Recoveries, indicating that an increase in cases, contributed to increased recovery, implying that the nursing homes had resources to handle and curb covid-19 cases through massive efficient vaccinations.
+10. January' accounts for the majority of tot_cases for quarter 1 overtime, while May accounts for the majority of tot_cases for quarter 2 overtime. 
+
+## RECOMMENDATIONS
+1. There is a need to increase the number of NHSN facilties and equip them with all resources to ensure cases are handled with speed and efficiency. 
+2. More NHS nursing staffs are needed to be hired to handle numerous cases.
+3. For states like Texas, Newyork and California, there is a need to provide them with more resources compared to other states. 
+4. There is a need to intensify the introduction of innovation into health care to be able to detect cases faster, and handle these cases with precision and efficiency to reduce mortalitye rates to the bearest minimum
+5. THE NHSN should focus and prepare for residents and other patients cases when periods are approaching winter, most especially from December to Februrary, with January as a red alert month. 
+6. The NHSN should treat these states (South Dakota , Minnesota, North Dakota, New Jersey and Indiana ) with high importance as they recorded the highest mortality rates. By providing more education, monitoring & Evaluation excercises to residents and patients from these states, potential case spread can be reduced and prevented. 
+7. Facilities like  Miller's Merry Manor, Brighton Rehabilitation and wellness centre, and cedarbrook senior care & rehabilitation centre needs to be really monitored and evaluated for faster solutions in preventing increase in average weekly cases. 
+8. Overall, the best health practices and prevention methods, through education, innovation and Data wrangling and analysis are highy important and need to be maintained and made a priority for health care workers, nurses, doctors, patients and the general public. 
+9. Only consistent education at every level can help curb cases and other potential transmitable diseases. 
