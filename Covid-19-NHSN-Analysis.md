@@ -590,11 +590,11 @@ GROUP BY 1
 		  AND ROUND((f_21.tot_cases - f_20.tot_cases)::numeric/
 		  f_20.tot_cases::numeric, 1) > 50.0 --showing only facilities with more than 50% case increase
 	ORDER BY 2 DESC;
-	```
+```
   
   6. Total No of cases, deaths, recoveries
   
-  ```sql
+ ```sql
   WITH sub AS 
 (
 SELECT weekly_resident_covid_cases, weekly_resident_covid_deaths 
@@ -614,6 +614,7 @@ SELECT  SUM(weekly_resident_covid_cases) AS tot_cases,
 		SUM(weekly_resident_covid_cases)-SUM(weekly_resident_covid_deaths)AS tot_recoveries
 FROM sub;
 ```
+
 7. 
 ```sql
 WITH monthly_cases AS (
