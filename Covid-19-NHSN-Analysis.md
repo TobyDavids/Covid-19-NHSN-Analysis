@@ -542,7 +542,7 @@ SELECT DISTINCT
            WHEN state ='OK' THEN 'Oklahoma'
            WHEN state ='OR' THEN 'Oregon'
            WHEN state ='PA' THEN 'Pennsylvania'
-	    	   WHEN state ='PR' THEN 'Puerto Rico'
+	   WHEN state ='PR' THEN 'Puerto Rico'
            WHEN state ='RI' THEN 'Rhode Island'
            WHEN state ='SC' THEN 'South Carolina'
            WHEN state ='SD' THEN 'South Dakota'
@@ -566,6 +566,7 @@ WHERE EXTRACT(YEAR from week_ending) = '2022'
 GROUP BY 1
 ORDER BY 2 DESC
 LIMIT 5;
+```
 
 5. 
 ```sql
@@ -576,7 +577,7 @@ FROM nhs_2020
 GROUP BY 1
 ),
 
-	fac_cases_2021 AS
+     fac_cases_2021 AS
 (
 SELECT facility_name, SUM(weekly_resident_covid_cases) AS tot_cases
 FROM nhs_2021
