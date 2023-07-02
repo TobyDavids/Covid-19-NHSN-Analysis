@@ -34,6 +34,8 @@ LIMIT 10;
 ```
 
 
+![image](https://github.com/TobyDavids/Covid-19-NHSN-Analysis/assets/131789318/75eb0f0d-85ed-485c-b53f-1d4c4407043d)
+
 
 | facility_name | avg_daily cases |
 |-----------------------------------|-------------|
