@@ -1,4 +1,4 @@
-`### QUESTIONS
+`# QUESTIONS
 
 1. Which healthcare facilities had the highest average number of daily COVID-19 cases in
 2021? Display the top 10 facilities.
